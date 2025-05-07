@@ -1,3 +1,6 @@
-8:29 PM IST
+#This file will publicly contain all the results and logs from our search, making it easier for others to contribute and analyze.
+
+Log 1 - Shreyansh Jaiswal
+7th May. 8:29 PM IST
 Checked up to n = 6846712834.
 No new terms found. Time taken for search - 400 sec.
