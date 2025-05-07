@@ -4,3 +4,6 @@ Log 1 - Shreyansh Jaiswal
 7th May. 8:29 PM IST
 Checked up to n = 6846712834.
 No new terms found. Time taken for search - 400 sec.
+
+Log 2 
+Checked up to n = 6888712832 Time elapsed (sec): 6218.86
