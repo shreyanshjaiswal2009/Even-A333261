@@ -18,3 +18,5 @@ shifted to 10^10.
 Log 4 8 May 3:50 PM IST
 No new terms found.
 Checked up to n = 10023999998 Time elapsed (sec): 2765.04
+
+Log 5 --> Working on Optimising code. #5:25 PM IST
