@@ -9,3 +9,7 @@ Log 2 - Shreyansh J.
 7th May 10:30 PM IST
 No new terms found.
 Checked up to n = 6888712832 Time elapsed (sec): 6218.86
+
+-- IMPORTANT--.
+Log 3 - In the OEIS entry for A333261, the bfile has been said to have "terms below 10^10". While some ambiguity remains, there is a possibility that all terms up to 10^10 were checked. Hence, the search has been 
+shifted to 10^10. 
