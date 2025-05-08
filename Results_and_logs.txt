@@ -20,3 +20,8 @@ No new terms found.
 Checked up to n = 10023999998 Time elapsed (sec): 2765.04
 
 Log 5 --> Working on Optimising code. #5:25 PM IST
+Added PyPy to local system, since it works nicely for repeated loops.
+
+Log 6 8 May 5:31 PM IST
+No new terms found.
+Checked up to n = 10043999996 Time elapsed (sec): 5236.67
