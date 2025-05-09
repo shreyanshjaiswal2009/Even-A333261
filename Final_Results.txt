@@ -1,1 +1,2 @@
 ##### Final results.
+Result! n =  10519952096 A071324(n) =  7050607200 Modular relation -  n = 8 (mod 12)
