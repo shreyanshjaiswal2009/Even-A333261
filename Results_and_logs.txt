@@ -38,3 +38,7 @@ Checked up to n = 10487999992. Time elapsed (sec): 3524.66.
 Log 9, 9 May 10:04 IST.
 No new terms found.
 Checked up to n = 10505999990. Time elapsed (sec): 4595.73.
+
+Log 10, 9 May, 11:02 IST.
+Result! n =  10519952096 A071324(n) =  7050607200 Modular relation -  n = 8 (mod 12)
+Checked up to n = 10551999988 Time elapsed (sec): 3080.15
