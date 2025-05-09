@@ -46,3 +46,7 @@ Checked up to n = 10551999988 Time elapsed (sec): 3080.15
 Log 11 9 May 1:19 PM IST
 No new terms found.
 Checked up to n = 10581999984 Time elapsed (sec): 2230.14
+
+Log 12 9 May 2:16 PM IST
+No new terms found.
+Checked up to n = 10607999980 Time elapsed (sec): 609.23.
