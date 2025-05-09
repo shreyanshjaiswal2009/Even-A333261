@@ -50,3 +50,7 @@ Checked up to n = 10581999984 Time elapsed (sec): 2230.14
 Log 12 9 May 2:16 PM IST
 No new terms found.
 Checked up to n = 10607999980 Time elapsed (sec): 609.23.
+
+Log 13 9 May 10:25 PM IST.
+Checked up to n = 11613999978 Time elapsed (sec): 27938.36
+No new term found.
