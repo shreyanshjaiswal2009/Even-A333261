@@ -63,3 +63,6 @@ Checked up to n = 12429999974 Time elapsed (sec): 7878.53 Number of results: 0
 
 Log 16, 15 May 8:01 PM IST.
 n = 12559999970. No terms.
+
+Log 17 15 May 10:20 PM IST.
+Checked up to n = 12861999968 Time elapsed (sec): 8200.05 Number of results: 0
