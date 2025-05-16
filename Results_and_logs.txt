@@ -69,3 +69,6 @@ Checked up to n = 12861999968 Time elapsed (sec): 8200.05 Number of results: 0
 
 Log 18 16 May 7:45 PM IST.
 Checked up to n = 12865999966 Time elapsed (sec): 423.52 Number of results: 0
+
+Log 19 17 May 0:02 AM IST.
+Checked up to n = 13445999964 Time elapsed (sec): 15363.62 Number of results: 0
