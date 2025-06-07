@@ -84,3 +84,6 @@ Checked up to n = 15143999958 Time elapsed (sec): 17490.74 Number of results: 0
 
 Log 23 3 June 10:30 PM IST.
 Checked up to n = 15425999956 Time elapsed (sec): 7915.81 Number of results: 0
+
+Log 24 7 June 2:43 PM IST.
+Checked up to n = 15613999954 Time elapsed (sec): 5108.55 Number of results: 0
